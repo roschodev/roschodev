@@ -44,7 +44,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## **Game Design**
-![Static Badge](https://img.shields.io/badge/UNREAL%20ENGINE-302D2D?style=flat&logo=unrealengine)
+![Static Badge](https://img.shields.io/badge/UNREAL%20ENGINE-302D2D?style=for-the-badge&logo=unrealengine)
 
 
 
