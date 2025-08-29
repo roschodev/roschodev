@@ -38,22 +38,16 @@
 ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) 
 ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Static Badge](https://img.shields.io/badge/UNREAL%20ENGINE-302D2D?style=for-the-badge&logo=unrealengine)
 
 ## **Version Control / Package Management** <br>
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## **Game Design**
-![Static Badge](https://img.shields.io/badge/UNREAL%20ENGINE-302D2D?style=for-the-badge&logo=unrealengine)
-
-
-
-
 
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=roschodev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=roschodev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roschodev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
